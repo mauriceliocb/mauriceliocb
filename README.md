@@ -2,6 +2,12 @@
 
 My name is Mauricelio Barros, an Electrical Engineering student at UNIFOR (Universidade de Fortaleza), a developer focused on embedded systems and data structures. I am passionate about technology and algorithm optimization, always striving to learn and improve my skills. I believe in the power of knowledge to drive innovation and create meaningful impact.
 
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170cm" align="center" src="https://github-readme-stats.vercel.app/api?username=mauriceliocb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="170cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&theme=dracula">
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
